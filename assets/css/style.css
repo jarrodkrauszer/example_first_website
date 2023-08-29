@@ -1,0 +1,12 @@
+body {
+  background-color: #555;
+  color: #fff;
+}
+
+h1 span, main p {
+  color: red;
+}
+
+.text-center {
+  text-align: center;
+}
